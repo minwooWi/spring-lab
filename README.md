@@ -27,6 +27,10 @@ This repository contains my learning journey with the Spring Framework. Spring i
 - Constructor and Setter injection.
 - Qualifiers and `@Primary` annotation.
 
+## 컴포넌트 동작 원리 참고 URL (reflection)
+- https://reflectoring.io/spring-component-scanning/
+- https://www.baeldung.com/java-scan-annotations-runtime
+
 ## Inversion of Control (IoC)
 
 - IoC principles and how Spring implements them.
